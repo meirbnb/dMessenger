@@ -1,7 +1,8 @@
 # dMessenger
 Decentralized Messenger Web3 App
 
-<img src = "screenshot.jpg" width="334" height="274">
+<img src = "screenshot.jpg" width="625" height="940">
+<img src = "screenshot.jpg" width="668" height="548">
 
 ## Instructions on how to run the project:
 
