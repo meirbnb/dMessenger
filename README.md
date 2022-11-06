@@ -15,7 +15,7 @@ This is how the project looks like:
 
 3) Install the following dependencies using `npm install ...`
 
--- gun
--- svelte
+  - gun
+  - svelte
 
 Run the project using `npm run dev`
