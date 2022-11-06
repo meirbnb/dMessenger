@@ -3,7 +3,7 @@ Decentralized Messenger Web3 App
 
 This is how the project looks like:
 
-<img src = "screenshot.jpg" width="325" height="270">
+<img src = "screenshot.jpg" width="305" height="270">
 
 <img src = "screenshot2.jpg" width="305" height="495">
 
